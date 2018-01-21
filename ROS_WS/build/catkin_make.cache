@@ -1,0 +1,2 @@
+detection_runner
+-DCATKIN_DEVEL_PREFIX=/home/vivek/custom_software/hackatown2018/ROS_WS/devel -DCMAKE_INSTALL_PREFIX=/home/vivek/custom_software/hackatown2018/ROS_WS/install -G Unix Makefiles

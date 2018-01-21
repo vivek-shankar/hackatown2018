@@ -1,0 +1,6 @@
+set(runner_SETUP_PY_VERSION "0.1.0")
+set(runner_SETUP_PY_SCRIPTS "")
+set(runner_SETUP_PY_PACKAGES "runner")
+set(runner_SETUP_PY_PACKAGE_DIRS "src/runner")
+set(runner_SETUP_PY_MODULES "")
+set(runner_SETUP_PY_MODULE_DIRS "")

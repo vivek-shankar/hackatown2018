@@ -1,0 +1,8 @@
+prefix=/home/vivek/custom_software/hackatown2018/ROS_WS/install
+
+Name: runner
+Description: Description of runner
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/vivek/custom_software/hackatown2018/ROS_WS/install/lib 
+Requires: roscpp std_msgs

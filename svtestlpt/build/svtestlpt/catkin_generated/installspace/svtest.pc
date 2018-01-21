@@ -1,0 +1,8 @@
+prefix=/home/vivek/custom_software/hackatown2018/svtestlpt/install
+
+Name: svtest
+Description: Description of svtest
+Version: 0.0.0
+Cflags: -I/home/vivek/custom_software/hackatown2018/svtestlpt/install/include
+Libs: -L/home/vivek/custom_software/hackatown2018/svtestlpt/install/lib 
+Requires: message_runtime roscpp rospy std_msgs

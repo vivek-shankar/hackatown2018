@@ -1,0 +1,8 @@
+prefix=/home/vivek/custom_software/hackatown2018/ROS_WS/devel
+
+Name: beginner_tutorials
+Description: Description of beginner_tutorials
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/vivek/custom_software/hackatown2018/ROS_WS/devel/lib 
+Requires: 
